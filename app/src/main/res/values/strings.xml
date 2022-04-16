@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movies TVs</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Shows</string>
+    <string name="bookmark">Bookmarks</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="toast_choose">You Choose : %1$s</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="detail_tv">Detail TV</string>
+    <string name="detail_title">Title :</string>
+    <string name="detail_rating">Rating :</string>
+    <string name="detail_duration">Duration :</string>
+    <string name="detail_year">Year :</string>
+    <string name="detail_genre">Genre :</string>
+    <string name="detail_director">Director :</string>
+    <string name="detail_description">Description :</string>
+    <string name="message_undo">Cancel deletes the previous item?</string>
+    <string name="message_ok">OK</string>
+</resources>

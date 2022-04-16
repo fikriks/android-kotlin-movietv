@@ -1,0 +1,104 @@
+{
+  "movies": [
+    {
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "description": "A Star Is Born merupakan salah satu film Amerika Serikat karya sutradara Frank Pierson, film ini film remake dari film yang berjudul sama pada tahun 1954. Film ini dirilis pada 17 Desember1976. Film ini dibintangi antara lain ialah Barbra Streisand, Kris Kristofferson, Gary Busey, dan masih banyak lagi.",
+      "duration": "139 Menit",
+      "year": "1976",
+      "ratings": "7/10",
+      "genre": "romance, drama, music",
+      "director": "Frank Pierson"
+    },
+    {
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+      "title": "Alita",
+      "description": "Alita: Battle Angel adalah sebuah film aksi cyberpunk Amerika Serikat tahun 2019 berdasarkan pada seri manga karya Yukito Kishiro, Gunnm atau Battle Angel Alita. Diproduksi oleh James Cameron dan Jon Landau, film tersebut disutradarai oleh Robert Rodriguez dari sebuah skenario karya Cameron, Rodriguez dan Laeta Kalogridis. Rosa Salazar sebagai Alita, seorang cyborg (robot manusia), dengan pemeran pendukung seperti Christoph Waltz, Jennifer Connelly, Mahershala Ali, Ed Skrein, Jackie Earle Haley dan Keean Johnson.r.",
+      "duration": "122 Menit",
+      "year": "2019",
+      "ratings": "9/10",
+      "genre": "animation, action, adventure",
+      "director": "Robert Rodriguez"
+    },
+    {
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLPffWMhMj1l50ND3KchMjYoKmE.jpg",
+      "title": "Aquaman",
+      "description": "Aquaman adalah film pahlawan super Amerika tahun 2018 yang didasarkan pada karakter DC Comics, Aquaman, dan didistribusikan oleh Warner Bros. Pictures. Ini adalah angsuran keenam di DC Extended Universe (DCEU). Film ini disutradarai oleh James Wan, dengan skenario oleh David Leslie Johnson-McGoldrick dan Will Beall, dan didasarkan pada sebuah cerita dari Geoff Johns, Wan dan Beall. Ini dibintangi Jason Momoa sebagai karakter judul, dengan Amber Heard, Willem Dafoe, Patrick Wilson, Dolph Lundgren, Yahya Abdul-Mateen II, dan Nicole Kidman dalam peran pendukung.",
+      "duration": "143 Menit",
+      "year": "2018",
+      "ratings": "9/10",
+      "genre": "action, fantasy, adventure",
+      "director": "James Wan"
+    },
+    {
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg",
+      "title": "Cold Pursuit",
+      "description": "Cold Pursuit adalah sebuah film Amerika Serikat yang dirilis tahun 2019. Disutradarai oleh Hans Petter Moland (dalam debut Hollywood-nya) dari skenario oleh Frank Baldwin. Pemain utamanya di film ini adalah Liam Neeson, Tom Bateman, Tom Jackson, Emmy Rossum, Domenick Lombardozzi, Julia Jones dan masih banyak lagi.",
+      "duration": "118 Menit",
+      "year": "2019",
+      "ratings": "6/10",
+      "genre": "action, crime, drama",
+      "director": "Hans Petter Moland"
+    },
+    {
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iBq4od6j1ZAvDVO7hwmHT2Xf2Bt.jpg",
+      "title": "Creed",
+      "description": "Creed adalah sebuah film drama olahraga Amerika tahun 2015 yang disutradarai oleh Ryan Coogler dan ditulis oleh Coogler dan Aaron Covington. Sebagai sebuah spin-off dan sekuel dari serial film Rocky,[3][4][5] film tersebut dibintangi oleh Michael B. Jordan sebagai Adonis Johnson Creed, putra Apollo Creed, dengan Sylvester Stallone mempersembahkan kembali peran Rocky Balboa.",
+      "duration": "133 Menit",
+      "year": "2015",
+      "ratings": "3/10",
+      "genre": "drama, sport",
+      "director": "Ryan Coogler"
+    },
+    {
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "description": "Fantastic Beasts: The Crimes of Grindelwald adalah sebuah film Amerika Serikat yang dirilis pada tahun 2018. Film yang disutradarai oleh David Yates ini pemainnya antara lain adalah Eddie Redmayne, Katherine Waterston, Dan Fogler dan masih banyak lagi. Film ini dirilis pada tanggal 16 November 2018 di Britania Raya dan Amerika Serikat.",
+      "duration": "134 Menit",
+      "year": "2018",
+      "ratings": "6/10",
+      "genre": "adventure, fantasy",
+      "director": "David Yates"
+    },
+    {
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+      "title": "Glass",
+      "description": "Glass adalah film thriller superhero psikologis Amerika Serikat tahun 2019[6] yang ditulis dan disutradarai oleh M. Night Shyamalan, yang juga diproduksi bersama Jason Blum, Marc Bienstock dan Ashwin Rajan.",
+      "duration": "98 Menit",
+      "year": "2019",
+      "ratings": "6/10",
+      "genre": "mystery and thriller, drama",
+      "director": "M. Night Shyamalan"
+    },
+    {
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+      "title": "How To Train Dragon",
+      "description": "How to Train Your Dragon adalah film fantasi aksi animasi komputer Amerika 2010 yang berdasarkan pada buku tahun 2003 dengan nama yang sama oleh penulis Inggris Cressida Cowell, diproduksi oleh DreamWorks Animation dan didistribusikan oleh Paramount Pictures.",
+      "duration": "149 Menit",
+      "year": "2010",
+      "ratings": "8/10",
+      "genre": "animation, action, adventure",
+      "director": "Chris Sanders & Dean DeBlois"
+    },
+    {
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Infinity War",
+      "description": "Avengers: Infinity War adalah film pahlawan super Amerika 2018 yang didasarkan pada tim superhero Marvel Comics the Avengers, diproduksi oleh Marvel Studios dan didistribusikan oleh Walt Disney Studios Motion Pictures.",
+      "duration": "149 Menit",
+      "year": "2018",
+      "ratings": "8/10",
+      "genre": "adventure, action, fantasy",
+      "director": "Anthony Russo & Joe Russo"
+    },
+    {
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
+      "title": "Marry Queen",
+      "description": "Mary Queen of Scots adalah film drama sejarah 2018 yang disutradarai oleh Josie Rourke (dalam debutnya sebagai sutradara) dan dengan skenario oleh Beau Willimon berdasarkan biografi John Guy tahun 2004, Queen of Scots: The True Life of Mary Stuart.",
+      "duration": "125 Menit",
+      "year": "2018",
+      "ratings": "6/10",
+      "genre": "biography, drama, history",
+      "director": "Josie Rourke"
+    }
+  ]
+}
